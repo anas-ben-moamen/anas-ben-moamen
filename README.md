@@ -14,8 +14,6 @@
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Python, Machine Learning, Spring Boot, or MEAN Stack development.
 - ⚡ Fun Fact: I enjoy solving coding challenges and hitting the gym.
-- 🌐 Portfolio: Coming Soon!
-
 
 ### Connect with Me :
 
